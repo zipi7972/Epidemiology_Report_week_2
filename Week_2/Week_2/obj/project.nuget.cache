@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qnQ1wY8ptnH9HZFhh2jAtJ/DKmWxn0/SnTNc8Orx/Owb6rgtNmnIYEZImGXU9Mnsro6RDVl1s9flD8wFJ/i/eA==",
+  "dgSpecHash": "erDraGSYNAHF08CblTKAPongALUQcsYYZ/h02t9q+50WSfRjqbWkStQ8oKKj8tYHQC9S+BkwLpYUs7ZwgvAcQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\crossRiver\\week__2\\Week_2\\Week_2\\Week_2.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\crossRiver\\week__2\\Core_project\\Week_2\\Week_2\\Week_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
